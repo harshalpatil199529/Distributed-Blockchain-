@@ -1,10 +1,12 @@
 # Distributed-Blockchain-
 GROUP INFORMATION: 
 
-Number    Member names   UFID  
+Number        Member names          UFID  
 
-1        Niraja Ganpule      17451951
-2        Harshal Patil       55528581  
+1             Niraja Ganpule        17451951
+
+2             Harshal Patil         55528581  
+
 
 Project Description  
 
